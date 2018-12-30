@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
